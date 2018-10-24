@@ -11,5 +11,5 @@ app.route('/login')
 def login():
     return 'login page'
 
-if '__name__' = '__main__':
+if __name__ = '__main__':
     app.run()
